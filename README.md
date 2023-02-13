@@ -2,6 +2,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/O2PhyxtkFwCtUO6nen/giphy.gif" width="100"/>
 </div>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="100"/>
+</div>
 <!--
 **dev-hash/dev-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
